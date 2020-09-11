@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-2.4.7-grooid.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/json-path-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/rest-assured-common-4.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/xml-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/json-schema-validator-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/rest-assured-4.3.1.jar" sourcepath="lib/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-all-3.0.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="lib/json-path-4.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
